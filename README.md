@@ -40,7 +40,7 @@ mlflow ui            # abre http://127.0.0.1:5000
 ## Probar la API en local
 
 ```bash
-uvicorn app:app --host 0.0.0.0 --port 8000
+uvicorn app:app --host 0.0.0.0 --port 7000
 ```
 
 En otra terminal:
@@ -113,3 +113,9 @@ curl -X POST http://<IP_PUBLICA_EC2>:8000/predict \
 ```
 
 Logs del servicio en EC2: `journalctl -u taller3-fastapi.service -f`.
+
+## Foto punto 6
+
+A continuación se muestra una prueba del endpoint usando curl desde local:
+
+![Curl desde local a endpoint](Curl%20desde%20local%20a%20endpoint.png)
