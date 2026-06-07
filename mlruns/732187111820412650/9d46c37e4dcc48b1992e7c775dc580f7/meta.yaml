@@ -1,0 +1,15 @@
+artifact_uri: file:///home/userubun/mlops/mlops/Taller3/mlops_taller3_eia_juanjairo/mlruns/732187111820412650/9d46c37e4dcc48b1992e7c775dc580f7/artifacts
+end_time: 1780794224655
+entry_point_name: ''
+experiment_id: '732187111820412650'
+lifecycle_stage: active
+run_id: 9d46c37e4dcc48b1992e7c775dc580f7
+run_name: Random Forest Regressor
+run_uuid: 9d46c37e4dcc48b1992e7c775dc580f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780794223085
+status: 3
+tags: []
+user_id: userubun

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/userubun/mlops/mlops/Taller3/mlops_taller3_eia_juanjairo/mlruns/732187111820412650/bfa527e2f53b4d229f548e4bae958a2a/artifacts
+end_time: 1780794125271
+entry_point_name: ''
+experiment_id: '732187111820412650'
+lifecycle_stage: active
+run_id: bfa527e2f53b4d229f548e4bae958a2a
+run_name: Linear Regression
+run_uuid: bfa527e2f53b4d229f548e4bae958a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780794125247
+status: 3
+tags: []
+user_id: userubun

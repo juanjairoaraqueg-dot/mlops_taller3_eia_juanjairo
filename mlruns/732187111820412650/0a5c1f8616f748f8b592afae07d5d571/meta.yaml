@@ -1,0 +1,15 @@
+artifact_uri: file:///home/userubun/mlops/mlops/Taller3/mlops_taller3_eia_juanjairo/mlruns/732187111820412650/0a5c1f8616f748f8b592afae07d5d571/artifacts
+end_time: 1780794135440
+entry_point_name: ''
+experiment_id: '732187111820412650'
+lifecycle_stage: active
+run_id: 0a5c1f8616f748f8b592afae07d5d571
+run_name: Lasso Regression
+run_uuid: 0a5c1f8616f748f8b592afae07d5d571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780794134063
+status: 3
+tags: []
+user_id: userubun

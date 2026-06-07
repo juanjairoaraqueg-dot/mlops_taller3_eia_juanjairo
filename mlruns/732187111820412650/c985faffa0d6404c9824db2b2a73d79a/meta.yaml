@@ -1,0 +1,15 @@
+artifact_uri: file:///home/userubun/mlops/mlops/Taller3/mlops_taller3_eia_juanjairo/mlruns/732187111820412650/c985faffa0d6404c9824db2b2a73d79a/artifacts
+end_time: 1780794133777
+entry_point_name: ''
+experiment_id: '732187111820412650'
+lifecycle_stage: active
+run_id: c985faffa0d6404c9824db2b2a73d79a
+run_name: Ridge Regression
+run_uuid: c985faffa0d6404c9824db2b2a73d79a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780794132415
+status: 3
+tags: []
+user_id: userubun

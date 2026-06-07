@@ -1,0 +1,18 @@
+[Unit]
+# Servicio systemd para mantener la API de FastAPI siempre arriba (Taller 3 MLOps EIA)
+Description=API FastAPI - Prediccion de salarios (Taller 3 MLOps)
+After=network.target
+
+[Service]
+# Usuario por defecto de Amazon Linux/Ubuntu en EC2 (ajustar segun la AMI: 'ec2-user' o 'ubuntu')
+User=ubuntu
+# Carpeta del proyecto en la instancia EC2 (ajustar a la ruta real)
+WorkingDirectory=/home/ubuntu/mlops_taller3_eia_juanjairo
+# Ruta al uvicorn del entorno virtual (ajustar a la ruta real del venv)
+ExecStart=/home/ubuntu/mlops_taller3_eia_juanjairo/venv/bin/uvicorn app:app --host 0.0.0.0 --port 8000
+# Reinicia automaticamente si el proceso se cae
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

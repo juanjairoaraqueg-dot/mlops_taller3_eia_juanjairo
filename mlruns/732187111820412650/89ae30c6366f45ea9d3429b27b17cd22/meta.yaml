@@ -1,0 +1,15 @@
+artifact_uri: file:///home/userubun/mlops/mlops/Taller3/mlops_taller3_eia_juanjairo/mlruns/732187111820412650/89ae30c6366f45ea9d3429b27b17cd22/artifacts
+end_time: 1780794279054
+entry_point_name: ''
+experiment_id: '732187111820412650'
+lifecycle_stage: active
+run_id: 89ae30c6366f45ea9d3429b27b17cd22
+run_name: pipeline_produccion
+run_uuid: 89ae30c6366f45ea9d3429b27b17cd22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780794278099
+status: 3
+tags: []
+user_id: userubun

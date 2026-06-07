@@ -1,0 +1,15 @@
+artifact_uri: file:///home/userubun/mlops/mlops/Taller3/mlops_taller3_eia_juanjairo/mlruns/732187111820412650/e19739b2491b4b5cb229c8b55c697e1b/artifacts
+end_time: 1780794149866
+entry_point_name: ''
+experiment_id: '732187111820412650'
+lifecycle_stage: active
+run_id: e19739b2491b4b5cb229c8b55c697e1b
+run_name: Decision Tree Regressor
+run_uuid: e19739b2491b4b5cb229c8b55c697e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780794148587
+status: 3
+tags: []
+user_id: userubun

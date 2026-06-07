@@ -1,0 +1,15 @@
+artifact_uri: file:///home/userubun/mlops/mlops/Taller3/mlops_taller3_eia_juanjairo/mlruns/732187111820412650/a6515c518dca4f23a6d64ec559292e63/artifacts
+end_time: 1780794125137
+entry_point_name: ''
+experiment_id: '732187111820412650'
+lifecycle_stage: active
+run_id: a6515c518dca4f23a6d64ec559292e63
+run_name: Gradient Boosting Regressor
+run_uuid: a6515c518dca4f23a6d64ec559292e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780794125110
+status: 3
+tags: []
+user_id: userubun
